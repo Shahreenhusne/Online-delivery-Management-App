@@ -1,1 +1,1 @@
-Online delivery Management App //Foodie 
+Online delivery Management App 
